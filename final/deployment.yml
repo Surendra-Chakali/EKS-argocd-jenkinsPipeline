@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: suri-pod
-          image: surendra568/argocd:6
+          image: surendra548/argocd:6
           ports:
             - containerPort: 80
 
