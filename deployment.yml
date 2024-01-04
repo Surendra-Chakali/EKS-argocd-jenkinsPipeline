@@ -30,5 +30,5 @@ spec:
     env: prod
   ports:
   - protocol: TCP
-    port: 8001
+    port: 8002
     targetPort: 80
